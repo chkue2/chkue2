@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=c0eb75&height=150&section=header&text=Hangyu%20Choi&fontSize=90)
 
-<h3 align="center">:bulb:Tech Stack:bulb:</h3>
+<h3 align="center">:star:Tech Stack:star:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -17,3 +17,8 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=flat-square&logo=Apache&nbsp;Cordova&logoColor=white"/>
 </p>
+
+<h3 align="center">:bulb:Info:bulb:</h3>
+
+<p align="center">- Email : [chkue0924@kakao.com](mailto:chkue0924@kakao.com)</p>
+<p align="center">- Birth : 1993.11</p>
