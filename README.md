@@ -20,5 +20,5 @@
 
 <h3 align="center">:bulb:Info:bulb:</h3>
 
-<p align="center">- Email : [chkue0924@kakao.com](mailto://chkue0924@kakao.com)</p>
+<p align="center">- Email : <a href="mailto:chkue0924@kakao.com>chkue0924@kakao.com<a/></p>
 <p align="center">- Birth : 1993.11</p>
