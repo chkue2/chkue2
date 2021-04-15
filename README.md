@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=c0eb75&height=150&section=header&text=Hangyu%20Choi&fontSize=90)
 
 
-</br></br><h3 align="center">:star:Tech Stack:star:</h3>
+</br><h3 align="center">:star:Tech Stack:star:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -19,6 +19,6 @@
   <img src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=flat-square&logo=Apache&nbsp;Cordova&logoColor=white"/>
 </p>
 
-</br></br><h3 align="center">:bulb:Contact:bulb:</h3>
+</br></br></br><h3 align="center">:bulb:Contact:bulb:</h3>
 
 <p align="center">- Email : <a href="mailto:chkue0924@kakao.com">chkue0924@kakao.com<a/></p>
