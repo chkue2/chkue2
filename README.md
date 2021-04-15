@@ -28,3 +28,4 @@
 </br></br></br><h3 align="center">:point_right: Contact</h3>
 
 <p align="center">- Email : <a href="mailto:chkue0924@kakao.com">chkue0924@kakao.com<a/></p>
+<p align="center">- Email : <a href="mailto:chkue2@naver.com">chkue2@naver.com<a/></p>
