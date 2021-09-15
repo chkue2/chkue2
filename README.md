@@ -24,6 +24,7 @@
 <p align="center">- <a href="http://www.happybusking.com">https://www.happybusking.com</a></p>
 <p align="center">- <a href="http://www.segno.co.kr">http://www.segno.co.kr</a></p>
 <p align="center">- <a href="http://www.perfect4.co.kr">http://www.perfect4.co.kr</a></p>
+<p align="center">- <a href="http://www.livesoop.com">http://www.livesoop.com</a></p>
 
 </br></br></br><h3 align="center">:point_right: Contact</h3>
 
