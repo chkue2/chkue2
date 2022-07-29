@@ -31,7 +31,7 @@
 <p align="center">- <a href="http://유산기부.miral.org">http://유산기부.miral.org</a></p>
 <p align="center">- <a href="http://www.tallower.com/">http://www.tallower.com/</a></p>
 <p align="center">- <a href="https://pentaxmedical.cafe24.com/base/">https://pentaxmedical.cafe24.com/</a></p>
-<p align="center">- <a href="https://couple2799.cafe24.com/">https://couple2799.cafe24.com/</a></p>
+<p align="center">- <a href="https://coupl2799.cafe24.com/">https://coupl2799.cafe24.com/</a></p>
 <br><br>
 <p align="center">- <a href="https://itunes.apple.com/kr/app/해피버스킹/id1436945374?mt=8">해피버스킹(ios)</a></p>
 <p align="center">- <a href="https://play.google.com/store/apps/details?id=com.happybusking">해피버스킹(android)</a></p>
